@@ -60,7 +60,7 @@ states = ["Alaska",
 # Regex logic written here
 # For example, to find all states that have 2 consecutive ’n', type 'n{2}’.
 # Another example, to find all states that have white space, type '\s’.
-your_regex_expression = /(your_regex_expression_here/
+your_regex_expression = /(\s)/
 
 states_that_match_your_regex = 0
 
